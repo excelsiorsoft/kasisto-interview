@@ -1,3 +1,7 @@
+## This is a take home programming exercise given by Kasisto
+
+**Problem**
+
 We would like you to implement a “mini-banking-assistant” that can do 2 things:
 
 1 - Responds inquiries about the balance of the different accounts (checking, savings, CD, etc.) that a user has
@@ -23,3 +27,17 @@ We do not expect this to be a full fledged banking assistant, so we do not expec
 You should write one Java (8) class (just one so that it is easy for you to send us the code and for us to run it). You can use any number of inner classes. You can tell us, if you wish, through comments in the code, which of those inner classes you would normally implement as separate classes (but this is not required). Feel free to document the code as much as you wish (the more the better, but again, this is not required, only for “bonus points”) We understand this is not the “normal” way in which you would write this code, and that’s OK.
 
 Finally, you can use anything available in Java 8, but you can’t use any third party package. All you will send us is the one class source code. We will compile it and run it on our computers, and will test it.
+
+**Solution**
+
+See `entryPoint()` method on [https://github.com/excelsiorsoft/kasisto-interview/blob/master/kasisto-test/src/test/java/com/excelsiorsoft/banking/assistant/BankingAssistantTest.java](https://github.com/excelsiorsoft/kasisto-interview/blob/master/kasisto-test/src/test/java/com/excelsiorsoft/banking/assistant/BankingAssistantTest.java) 
+
+or an equivalent and runnable Java class:
+
+[https://github.com/excelsiorsoft/kasisto-interview/blob/master/kasisto-test/src/main/java/com/excelsiorsoft/banking/assistant/BankingAssistant.java](https://github.com/excelsiorsoft/kasisto-interview/blob/master/kasisto-test/src/main/java/com/excelsiorsoft/banking/assistant/BankingAssistant.java)
+
+that could be invoked via its `main()` method
+
+
+
+
