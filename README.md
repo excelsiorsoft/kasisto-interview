@@ -38,6 +38,8 @@ or an equivalent and runnable Java class:
 
 that could be invoked via its `main()` method
 
+**References:** 
 
+Some interesting ideas on implementing pattern matching are borrowed from [here](https://kerflyn.wordpress.com/2012/05/09/towards-pattern-matching-in-java/)
 
 
